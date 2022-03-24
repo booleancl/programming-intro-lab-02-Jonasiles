@@ -13,3 +13,7 @@ Clona el siguiente respositorio y llévalo a la nube con Heroku
 Cuando logres desplegar la aplicación en producción saca un print de pantalla y agrégalo a este README con un `commit` y luego `push`.
 
 ¡Recuerda siempre trabajar en equipo!
+
+## objetivo logrado
+
+[Demo en producción](https://pure-mountain-27816.herokuapp.com/)
